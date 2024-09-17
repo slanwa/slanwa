@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, drawing, soap sculpting and other stuffs ...
 - 🌱 I’m currently learning programming in a lot of differetn languages
 - 💞️ I’m looking to collaborate on my project with you or just help you with your projects
-- 📫 How to reach me: well...if you have whatsApp, here's my number +237 620552493
+- 📫 How to reach me: well...if you have whatsApp, here's my number +237 620552493, and you can also reach me by email: jsgamecreators@gmail.com
 
 <!---
 Moses/Moses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
